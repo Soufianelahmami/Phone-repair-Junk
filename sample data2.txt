@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Phone repair can be a daunting task, especially when your phone is not functioning correctly due to junk applications. Junk applications are applications that are not useful, take up unnecessary storage space","photo":"https://iili.io/HkbdYOJ.webp"},
+  {"title":"advance pack 2","desc":"Phone repair can be a difficult operation, particularly if your phone is not operating properly as a result of garbage applications. Applications that are useless and occupy unneeded storage space are known as junk applications.","photo":"https://iili.io/Hkbd7Ra.jpg"},
+  {"title":"tips mod 3 ","desc":" and can slow down your phone's performance. These applications can cause your phone to freeze or crash, which can be frustrating for any user.","photo":"https://iili.io/Hkbd5Hg.jpg"},
+  {"title":"how to use this app 4","desc":"and can make your phone operate worse. Every user who uses these programs may find it frustrating if their phone freezes or crashes.","photo":"https://iili.io/HkbdaDv.webp"},
+  {"title":"advice pack 5","desc":"Junk applications can be caused by a variety of factors, including downloading applications from unverified sources, not updating applications regularly, and not removing unused applications","photo":"https://iili.io/Hkbd0Vp.jpg"},
+  {"title":"helper mod 6","desc":"Several things, such as getting programs from unreliable sites, neglecting to update programs frequently, and failing to delete unneeded programs, can result in junk apps.","photo":"https://iili.io/HkbdlxR.jpg"},
+  {"title":"tips pack 7","desc":" It is essential to note that some junk applications can be harmful to your phone's security, leading to data breaches, identity theft, and other cybersecurity issues.","photo":"https://iili.io/Hkbd1iN.jpg"},
+  {"title":"advance mod 8","desc":"It is important to remember that some useless apps can compromise the security of your phone, resulting in data breaches, identity theft, and other cybersecurity risks.","photo":"https://iili.io/HkbdGfI.jpg"}
 
    ]
  
